@@ -1,0 +1,13 @@
+{
+  "name": "portfolio_eltorretaz_22abril2024",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Uneweb-blue)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
